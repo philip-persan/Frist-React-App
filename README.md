@@ -44,13 +44,14 @@
 
 ## :dart: About ##
 
-Describe your project
+My Frist React App!!
+A Simple To Do List
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: JavaScript\
+:heavy_check_mark: React\
+:heavy_check_mark: HTML/CSS
 
 ## :rocket: Technologies ##
 
