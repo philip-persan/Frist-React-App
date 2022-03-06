@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="React Todo List" />
+  <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" alt="React Todo List" />
 
   &#xa0;
 
