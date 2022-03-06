@@ -17,11 +17,11 @@
 
   <img alt="License" src="https://img.shields.io/github/license/{{philip-persan}}/react-todo-list?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/react-todo-list?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{philip-persan}}/react-todo-list?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/react-todo-list?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{philip-persan}}/react-todo-list?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/react-todo-list?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{philip-persan}}/react-todo-list?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -72,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/react-todo-list
+$ git clone https://github.com/{{philip-persan}}/react-todo-list
 
 # Access
 $ cd react-todo-list
